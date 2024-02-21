@@ -1,0 +1,4 @@
+read me
+
+first train the model using the code in notebook file.
+Next code for generation is given in the end of notebook just give different seed text as input, the model will generate the remaining.
